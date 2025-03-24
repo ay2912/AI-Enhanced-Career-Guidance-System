@@ -1,0 +1,12 @@
+streamlit 
+langchain
+ollama 
+python-dotenv 
+pypdf 
+faiss-cpu 
+sentence-transformers
+langchain-community
+fuzzywuzzy
+speechrecognition
+pyttsx3
+pyaudio
